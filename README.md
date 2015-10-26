@@ -4,4 +4,4 @@ The password protected section of http://www.richlinecreative.com is an AngularJ
 
 View the page for this project at http://jonk723.github.io/rcResearch
 
-Created at Richline Group
+Created at Richline Group, Inc.
